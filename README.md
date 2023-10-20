@@ -23,7 +23,7 @@ This will print 'Hello, World!' in green.
 
 Or like:
 ```python
-print_Color('hello <red>hello in red')
+print_Color('hello <red>hello in red <green>hello in green')
 ```
 
 ## Special Characters
